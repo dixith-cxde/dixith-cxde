@@ -40,6 +40,5 @@ text{font-family:'JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace;fo
 <text x="12" y="489"><tspan class="f">  ekko </tspan><tspan class="d">.........</tspan><tspan class="f"> java, 15 mb</tspan></text>
 <text x="12" y="511"><tspan class="f">  cdc</tspan><tspan class="d">-</tspan><tspan class="f">pipeline . typescript, 11 mb</tspan></text>
 <text x="12" y="533"><tspan class="d"></tspan></text>
-<text x="12" y="555"><tspan class="d">&quot;creating bugs since 2021, fixing them since 2023.&quot;</tspan></text>
 <text x="12" y="577"><tspan class="d">&quot;it works on my machine (mostly).&quot;</tspan></text>
 </svg>
